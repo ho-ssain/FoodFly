@@ -1,0 +1,26 @@
+{
+  "name": "restuarant-service",
+  "version": "1.0.0",
+  "description": "> TODO: description",
+  "author": "Hossain K. M. <awarehossain@gmail.com>",
+  "homepage": "https://github.com/ho-ssain/FoodFly#readme",
+  "license": "ISC",
+  "main": "lib/restuarant-service.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ho-ssain/FoodFly.git"
+  },
+  "scripts": {
+    "test": "node ./__tests__/restuarant-service.test.js"
+  },
+  "bugs": {
+    "url": "https://github.com/ho-ssain/FoodFly/issues"
+  }
+}
